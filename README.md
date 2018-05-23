@@ -1,5 +1,7 @@
 # Lightbox2
 
+This project for images galery for web technologies(Web teknolojileri için resim galerisi)
+
 The original lightbox script. Eight years later — still going strong!
 
 Lightbox is small javascript library used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.
